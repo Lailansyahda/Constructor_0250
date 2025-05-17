@@ -6,5 +6,7 @@ class angka{
   int *arr;
   int panjang;
   
-  
+  public :
+  angka(int); //Constructor
+  ~angka(); // destructor
 };
