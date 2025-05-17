@@ -9,4 +9,6 @@ class angka{
   public :
   angka(int); //Constructor
   ~angka(); // destructor
+  void cetakData();
+  void isiData();
 };
